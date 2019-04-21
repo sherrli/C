@@ -4,6 +4,6 @@ make
 ```
 creates an executable file called DictionaryClient.
 ```
-Dictionary Client
+DictionaryClient
 ```
 has function tests for the Hash Table ADT defined in Dictionary.c
